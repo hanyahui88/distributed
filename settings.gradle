@@ -1,5 +1,5 @@
 rootProject.name = 'distributed'
 include 'bbs'
 include 'jobs'
-include 'aa'
+include 'framework'
 
