@@ -2,4 +2,7 @@ rootProject.name = 'distributed'
 include 'bbs'
 include 'jobs'
 include 'framework'
+include 'api'
+include 'console'
+include 'server-console'
 
